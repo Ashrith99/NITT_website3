@@ -60,14 +60,13 @@
     background-color: transparent !important;
 }
 
-.two_nav {
-    /* background: linear-gradient(0deg, transparent, rgba(0, 0, 0, .4)), linear-gradient(0deg, transparent 10%, rgba(0, 0, 0, .4)) !important; */
-}
+/* .two_nav {
+    background: linear-gradient(0deg, transparent, rgba(0, 0, 0, .8)), linear-gradient(0deg, transparent 10%, rgba(0, 0, 0, .6)) !important;
+} */
 
-#header {
-    background: linear-gradient(0deg, transparent, rgba(0, 0, 0, .9)), linear-gradient(0deg, transparent 10%, rgba(0, 0, 0, .9)) !important;
-    /* background-color:rgba(0, 0, 0, .6); */
-}
+/* #header {
+    background: linear-gradient(0deg, transparent, rgba(0, 0, 0, .6)), linear-gradient(0deg, transparent 10%, rgba(0, 0, 0, .6)) !important;
+} */
 
 
 .ar-menu-brand {
@@ -79,7 +78,7 @@
 .header.header-floating .header-nav .header-nav-wrapper {
         
     border-bottom: none !important;
-    background-color:rgba(0, 0, 0, .5);
+    background-color:rgba(0, 0, 0, 0.6);
 }
 
 .ar-bg-slide {
